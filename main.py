@@ -3,7 +3,7 @@
 # import json
 # from base64 import b64decode
 #
-# Api_cey = "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"
+# Api_cey = ""
 # openai.api_key = Api_cey
 #
 # prompt = "capital letter h in black on white background"
