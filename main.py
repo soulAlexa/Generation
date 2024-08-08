@@ -3,6 +3,8 @@
 # import json
 # from base64 import b64decode
 #
+# Api_cey = ""
+# openai.api_key = Api_cey
 #
 # prompt = "capital letter h in black on white background"
 # response = openai.Image.create(
